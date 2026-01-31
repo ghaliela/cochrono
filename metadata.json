@@ -1,0 +1,5 @@
+{
+  "name": "ChronoStream",
+  "description": "An interactive deep-zoom historical timeline application allowing users to navigate from millennia down to specific months.",
+  "requestFramePermissions": []
+}
